@@ -14,7 +14,7 @@
       <ul id="courses-list">
         <li class="course-name"> CS 121 </li>
         <ul class="course-description">
-          <li class="course-description-bullet"> Learned fundemental concpets of software development </li>
+          <li class="course-description-bullet"> Learned fundemental concepts of software development </li>
           <ul class="course-description-subbullet">
             <li class="subbullet-description"> Algorithm design </li>
             <li class="subbullet-description"> Program design and implementation </li>
@@ -26,7 +26,7 @@
         <li class="course-name"> CS 122 </li>
         <ul class="course-description">
           <li class="course-description-bullet"> Continuation of Programming with C++ </li>
-          <li class="course-description-bullet"> Learned more concpets of software development </li>
+          <li class="course-description-bullet"> Learned more concepts of software development </li>
           <ul class="course-description-subbullet">
             <li class="subbullet-description"> More complex data structures </li>
             <li class="subbullet-description"> Continue program design and implementation</li>
